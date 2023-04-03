@@ -1,0 +1,9 @@
+import './admin-user';
+import './profile-edit-profile';
+import './profile-edit-password';
+import './area';
+import './career';
+import './gender';
+import './institution';
+import './typeinstitution';
+import './modality';
